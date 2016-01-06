@@ -1,3 +1,3 @@
-var hideModal = function() {
-  $(".modal-content").remove();
-};
+// var hideModal = function() {
+//   $(".modal-content").remove();
+// };
